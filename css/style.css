@@ -1,0 +1,704 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/*-----Navbar-------*/
+.navbars{
+	background-color: rgb(204,255,255);
+}
+.logo-facebook{
+	margin-left: 235px;
+}
+/*-----Carousel------*/
+.image-carousel{
+	height: 317px;
+	width: 71%;
+	margin-left: 199px;
+	margin-top: 20px;
+}
+/*-----Section menu---*/
+.section-menu{
+	background-color: rgb(154,153,255);
+	height: 98px;
+}
+/*----List menu------*/
+.list-menu{
+	display: flex;
+	list-style: none;
+	margin-left: 682px;
+	margin-top: -53px;
+}
+
+/*.under-list-2{
+	margin-left: 15px;
+}
+.under-list-3{
+	margin-left: 20px;
+}
+.under-list-4{
+	margin-left: 20px;
+}
+.under-list-5{
+	margin-left: 28px;
+}
+.under-list-6{
+	margin-left: 20px;
+}*/
+
+/*----Under image--------*/
+.under-image{
+	width: 20%;
+	height: 86px;
+	margin-left: 224px;
+}
+/*----Section Carousel----*/
+.section-carousel{
+	background-color: rgb(204,255,255);
+	height: 380px;
+}
+
+/*----Section-bloc------*/
+.section-bloc{
+	margin-top: 45px;
+}
+.under-sections{
+	display: flex;
+	justify-content: center;
+	margin-top: 40px;
+}
+.section-1{
+	background-color: rgb(153,153,255); 
+	width: 293px;
+}
+.section-text-1{
+	margin-top: -80px;
+	position: absolute;
+	margin-left: 95px;
+	color: white;
+}
+.image-1{
+	width: 25%;
+	margin-top: 15px;
+	margin-left: 12px;
+}
+.section-2{
+	background-color: rgb(153,153,255);
+	margin-left: 35px;
+	width: 293px;
+	height: 109px;
+}
+.section-text-2{
+	margin-top: -70px;
+	position: absolute;
+	margin-left: 124px;
+	color: white;
+}
+.under-bloc-text-2{
+	margin-left: 36px;
+}
+.image-2{
+	width: 25%;
+	margin-top: 14px;
+	margin-left: 12px;
+}
+.section-3{
+	background-color: rgb(153,153,255);
+	margin-left: 35px;
+	width: 293px;
+}
+.section-text-3{
+	margin-top: -80px;
+	position: absolute;
+	margin-left: 95px;
+	color: white;
+}
+.under-bloc-text-3{
+	margin-left: 36px;
+}
+.image-3{
+	width: 25%;
+	margin-top: 15px;
+	margin-left: 12px;
+}
+.text-1{
+	
+	margin-top: 10px;
+	font-size: 10px;
+	/*margin-left: -97px;*/
+
+}
+span.ingredient{
+	color: #f00;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: -265px;
+}
+.text-2{
+	margin-top: 10px;
+	font-size: 10px;
+	/*margin-left: 89px;*/
+}
+span.ingredient-2{
+	color: #f00;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: -65px;
+}
+.text-3{
+	margin-top: 10px;
+	font-size: 10px;
+	/*margin-left: 86px;*/
+}
+span.ingredient-3{
+	color: #f00;
+	position: absolute;
+	margin-top: 15px;
+	margin-left: -65px;
+}
+
+.bloc-text{
+	display: flex;
+	justify-content: center;
+}
+
+/*----Section country-----*/
+.title{
+	/*border-bottom: 1px solid black;*/
+	margin-left: 194px;
+}
+.section-country{
+	margin-top: 15px;
+}
+.under-section-country{
+	display: flex;
+	justify-content: center;
+	margin-top: -5px;
+}
+.new-destination{
+	width: 83%;
+	color: #000000;
+}
+.under-title{
+	font-size: 20px;
+}
+.bloc-france{
+	margin-left: -50%;
+    position: absolute;
+}
+.flag-france{
+	margin-top: 25px;
+	border: 5px solid #DCD8D8;
+	width: 95%;
+	height: 130px;
+	/*margin-left: 79px;*/
+	border-radius: 5px;
+}
+.title-france{
+	margin-left: 78px;
+	margin-top: 10px;
+	position: absolute;
+}
+.bloc-brazil{
+	margin-left: 24px;
+    position: absolute;
+}
+.flag-brazil{
+	margin-top: 25px;
+	border: 5px solid #DCD8D8;
+	width: 95%;
+	height: 130px;
+	/*margin-left: 26px;*/
+	border-radius: 5px;
+}
+.title-brazil{
+	margin-left: 26px;
+	margin-top: 10px;
+	position: absolute;
+}
+.bloc-algeria{
+	margin-left: 48%;
+    position: absolute;
+}
+.flag-algeria{
+	margin-top: 25px;
+	border: 5px solid #DCD8D8;
+	width: 95%;
+	height: 130px;
+	/*margin-left: -25px;*/
+	border-radius: 5px;
+}
+.title-algeria{
+	margin-left: -26px;
+	margin-top: 10px;
+	position: absolute;
+}
+
+/*---------Section presentation--------*/
+.section-presentation{
+	background-color: rgb(204,255,255);
+	margin-top: 255px;
+	height: 700px;
+}
+.under-section-presentation{
+	display: flex;
+	justify-content: center;
+}
+.section-presentation-1{
+	/*float: left;*/
+}
+.section-presentation-2{
+	
+}
+.title-presentation-1{
+	margin-top: 70px;
+	font-size: 25px;
+	margin-left: 47px;
+}
+.title-presentation-2{
+	margin-top: 70px;
+	font-size: 25px;
+	margin-left: 28px;
+}
+.title-presentation-3{
+	font-size: 25px;
+	margin-left: 195px;
+}
+.text-presentation-1{
+	font-size: 13px;
+	margin-left: 44px;
+}
+.text-presentation-2{
+	font-size: 15px;
+	margin-left: 78px;
+}
+.text-presentation-3{
+	/*margin-left: 100px;
+	margin-top: -93px;
+	font-size: 15px;*/
+	font-size: 13px;
+	margin-left: 44px;
+}
+.text-presentation-4{
+	/*margin-left: 100px;
+	margin-top: -93px;
+	font-size: 15px;*/
+
+	font-size: 15px;
+	margin-left: 78px;
+}
+.text-presentation-5{
+	/*margin-left: 100px;
+	margin-top: -69px;
+	font-size: 15px;*/
+
+	font-size: 15px;
+	margin-left: 75px;
+
+
+}
+.text-presentation-6{
+	/*font-size: 15px;
+	margin-left: 91px;*/
+
+	font-size: 13px;
+	margin-left: 133px;
+	position: absolute;
+    margin-top: -82px;
+}
+.text-presentation-7{
+	/*font-size: 15px;
+	margin-left: 91px;*/
+
+	font-size: 13px;
+	margin-left: 133px;
+	position: absolute;
+    margin-top: -79px;
+}
+
+.text-presentation-8{
+	margin-top: -65px;
+    margin-left: 133px;
+    font-size: 13px;
+}
+
+.text-presentation-10{
+	/*font-size: 15px;
+	margin-left: 91px;*/
+
+	font-size: 15px;
+	margin-left: 78px;
+}
+.text-presentation-11{
+	/*font-size: 15px;
+	margin-left: 91px;*/
+
+	font-size: 15px;
+	margin-left: 78px;
+}
+.under-presentation-2{
+	margin-top: 50px;
+}
+.under-presentation-3{
+	margin-top: 50px;
+}
+.new1{
+	width: 85%;
+	margin-left: 45px;
+}
+.new2{
+	width: 85%;
+    margin-right: 42px;
+    margin-left: 28px;
+}
+.new3{
+	margin-top: 20px;
+	margin-left: 195px;
+	width: 83%;
+}
+.button-1{
+	background-color: rgb(126,170,103);
+	border: 1px rgb(126,170,103);
+	border-radius: 5px;
+	color: #FFFFFF;
+	width: 100px;
+	height: 40px;
+	margin-left: 195px;
+}
+.image-watch{
+	width: 100px;
+	margin-left: 15px;
+}
+.image-map{
+	width: 100px;
+	margin-left: 15px;
+}
+.image-bike{
+	width: 100px;
+	margin-left: 15px;
+}
+.section-presentation-3{
+	position: absolute;
+    margin-top: 10px;
+}
+.text-presentation-14{
+	font-size: 13px;
+    margin-left: 197px;
+}
+
+/*-----Footer--------*/
+.list-footer{
+	display: flex;
+	list-style: none;
+	margin-left: 181px;
+	/*margin-top: 15px;*/
+}
+.under-list-footer-1{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.under-list-footer-2{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.under-list-footer-3{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.under-list-footer-4{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.under-list-footer-5{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.under-list-footer-6{
+	margin-left: 15px;
+	margin-top: 15px;
+}
+.paragraph-footer{
+	margin-left: 194px;
+}
+footer{
+	background-color: rgb(153,153,255);
+	height: 96px;
+}
+
+/*@media all and (max-width: 600px;) {
+	.navbars{
+		background-color: green;
+	}
+}*/
+@media all and (max-width: 600px){
+	
+	.navbars{
+		width: 620px;
+		height: 40px;
+	}
+	/*.logo-facebook{
+		margin-top: 10px;
+	}*/
+	.section-menu{
+		width: 620px;
+		height: 130px;
+	}
+	.under-image{
+		width: 40%;
+    	margin-left: 40px;
+    	height: 78px;
+	}
+	.list-menu{
+		margin-left: 27px;
+    	margin-top: 1px;
+	}
+	.navs-1{
+
+	}
+	.navs-2{
+		margin-left: -21px;
+	}
+	.navs-3{
+		margin-left: -21px;
+	}
+	.navs-4{
+		margin-left: -21px;
+	}
+	.navs-5{
+		margin-left: -21px;
+	}
+	.navs-6{
+		margin-left: -21px;	
+	}
+	.image-carousel{
+		margin-left: 100px;
+		width: 77%;
+		height: 230px;
+	}
+	.section-carousel{
+		width: 620px;
+		height: 290px;
+	}
+	.carousel-control-prev{
+		margin-left: -44px;
+	}
+	.carousel-control-next{
+		margin-right: -93px;
+	}
+	.carousel-indicators{
+
+	}
+	.section-bloc{
+
+	}
+	.under-sections{
+		margin-left: 31px;
+	}
+	.section-1{
+		width: 100%;
+		height: 100px;
+		margin-left: 5px;
+	}
+	.image-1{
+		width: 30%;
+	}
+	.section-text-1{
+		font-size: 11px;
+    	margin-left: 67px;
+    	margin-top: -51px;
+    	position: absolute;
+	}
+	span.ingredient{
+		margin-left: -118px;
+	}
+	.under-bloc-text-1{
+
+	}
+	.text-1{
+		/*position: relative;*/
+		margin-left: 7px;
+	}
+	.section-2{
+		width: 94%;
+		height: 100px;
+		margin-left: 23px;
+	}
+	.image-2{
+		width: 30%;
+	}
+	.section-text-2{
+		font-size: 11px;
+    	margin-left: 76px;
+    	margin-top: -46px;
+    	position: absolute;
+	}
+	.text-2{
+		margin-left: -11px;
+	}
+	.section-3{
+		width: 92%;
+		height: 100px;
+		margin-left: 30px;
+	}
+	.image-3{
+		width: 30%;
+		margin-left: 5px;
+		margin-top: 10px;
+	}
+	.section-text-3{
+		font-size: 11px;
+    	margin-left: 68px;
+    	margin-top: -50px;
+	}
+	.text-3{
+		margin-left: -5px;
+	}
+	.title{
+		margin-left: 37px;
+		width: 100%;
+	}
+	.new-destination{
+		width: 93%;
+	}
+	.bloc-france{
+		margin-left: -220px;
+	}
+	.bloc-brazil{
+		margin-left: 277px;
+	}
+	.bloc-algeria{
+		margin-left: 425px;
+	}
+	.flag-france{
+		margin-left: 1px;
+    	width: 58%;
+    	height: 100px;
+	}
+	.title-france{
+		margin-left: 1px;
+    	margin-top: 3px;
+	}
+	.flag-brazil{
+		margin-left: -95px;
+    	width: 85%;
+    	height: 100px;
+	}
+	.title-brazil{
+		margin-left: -94px;
+    	margin-top: 3px;
+	}
+	.flag-algeria{
+		/*margin-left: 345px;
+    	margin-top: -120px;*/
+    	height: 100px;
+    	width: 95%;
+	}
+	.title-algeria{
+		margin-left: 1px;
+    	margin-top: 2px;
+	}
+	.section-presentation{
+		margin-top: 40px;
+	}
+	.title-presentation-1{
+		margin-left: 35px;
+    	margin-top: 40px;
+	}
+	.new1{
+		margin-left: 31px;
+    	width: 90%;
+	}
+	.title-presentation-2{
+		/*margin-left: 232px;*/
+		margin-top: 40px;
+	}
+	.new2{
+		/*margin-left: 232px;*/
+		width: 82%;
+	}
+	.text-presentation-1{
+		margin-left: 30px;
+		font-size: 10px;
+	}
+	.text-presentation-2{
+		margin-left: -20px;
+		font-size: 14px;
+	}
+	.image-watch{
+		width: 70px;
+    	margin-left: 25px;
+	}
+	.text-presentation-3{
+		font-size: 10px;
+		margin-top: 30px;
+    	margin-left: 30px;
+	}
+	.image-map{
+		width: 70px;
+		margin-left: 25px;
+	}
+	.text-presentation-4{
+		font-size: 14px;
+		margin-top: -60px;
+    	margin-left: 55px;
+	}
+	.image-bike{
+		width: 70px;
+		margin-left: 25px;
+	}
+	.text-presentation-5{
+		font-size: 14px;
+		margin-top: -50px;
+    	margin-left: 55px;
+	}
+	.text-presentation-7{
+		font-size: 10px;
+    	margin-left: 120px;
+    	margin-top: -70px;
+	}
+	.text-presentation-8{
+		font-size: 10px;
+    	margin-left: 120px;
+    	margin-top: -57px;
+	}
+	.section-presentation{
+		width: 620px;
+		height: 790px;
+		margin-top: 185px;
+	}
+	.section-presentation-2{
+		/*margin-top: -322px;*/
+	}
+	.title-presentation-3{
+		font-size: 20px;
+    	margin-left: 65px;
+	}
+	.text-presentation-14{
+		margin-left: 65px;
+		font-size: 10px;
+	}
+	.new3{
+		width: 90%;
+    	margin-left: 65px;
+	}
+	.text-presentation-6{
+		margin-left: 120px;
+    	font-size: 10px;
+    	margin-top: -70px;
+	}
+	.button-1{
+		margin-left: 64px;
+    	width: 100px;
+    	height: 40px;
+	}
+	.list-footer{
+		margin-left: 55px;
+	}
+	.paragraph-footer{
+		
+		margin-left: 68px;
+		
+	}
+	footer{
+		width: 620px;
+	}
+}
